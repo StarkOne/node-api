@@ -4,8 +4,10 @@
   "description": "Devcamper backend nodejs API",
   "main": "index.js",
   "dependencies": {
+    "colors": "^1.4.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "mongoose": "^5.9.18",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
